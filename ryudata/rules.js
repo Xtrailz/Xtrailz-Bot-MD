@@ -19,5 +19,9 @@ exports.rules = () => {
 Sanksi: *PERMANENT BLOCK*
 - Sengaja/Tidak Sengaja Menelpon Bit.
 Sanksi: *PERMANENT BLOCK*
+
+*_Harap Patuhi Rules dan Konsekuensinya, Karena Spam Berlebihan Dapat 
+Menyebabkan Whatsapp Mendeteksi Tindakan Spam Dari Bot Ini. Thanks:D_*
+
 `
 }
