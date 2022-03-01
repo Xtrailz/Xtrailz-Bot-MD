@@ -158,6 +158,7 @@ Instagram : @x.trailz
 ⚘👾 ${prefix}handhold
 
 *🔞 NSFW MENU*
+_Dosa Silahkan Tanggung Sendiri_
 ⚘👾 ${prefix}blowjob
 ⚘👾 ${prefix}hentai
 ⚘👾 ${prefix}yuri
@@ -209,7 +210,7 @@ Instagram : @x.trailz
 ⚘👾 ${prefix}report
 ⚘👾 ${prefix}req
 
-Fitur Nya Masih Dikit Jadi
-Subscribe For Update 
+*Harap maklumi jika ada error pada command bot ini, 
+dan jangan gunakan lagi command tersebut.*
 `
 }
