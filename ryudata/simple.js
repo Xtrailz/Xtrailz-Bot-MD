@@ -2,15 +2,15 @@
 
 //LIST MENU
 exports.list = (pushname, ucapanWaktu, namabot) => {
-	return`*Halo Kak ${pushname} 👋*
+	return`*Halo ${pushname} 👋*
 *${ucapanWaktu}*
 
 *Berikut List Menu Yang Tersedia Di ${namabot}*
 
 *Jika Menemukan Bug Harap Dimaklumi Dan Laporkan Kepada*
-*Owner Atau Creator Agar Segera Di Fix 😎*
+*Owner Atau Creator Agar Segera Di Fix *
 
-*Terima Kasih 🙏*
+*Terima Kasih *
 `
 }
 
@@ -252,6 +252,7 @@ IG : @x.trailz
 exports.snsfw = (prefix) => {
 	return`Media Sosial 👾
 Instagram : @x.trailz
+_Dosa Tanggung Sendiri_
 
 *🔞 NSFW MENU*
 ⚘👾 ${prefix}blowjob
@@ -336,8 +337,8 @@ Saya Adalah *${namabot}* Yang Direcode Oleh Zian dan Ryuuka Team Menggunakan Bas
 Perlu Diketahui Bot Ini Memakai Program Multi Device Beta Dari WhatsApp Messenger.
 
 Jadi Jika Menemukan Bug Silahkan Laporkan Kepada Owner
-Atau Creator Agar Segera Di Fix 🤗
+Atau Creator Agar Segera Di Fix 
 
-Terima Kasih 🙏
+Terima Kasih 
 `
 }
