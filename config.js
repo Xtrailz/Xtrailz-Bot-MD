@@ -22,11 +22,11 @@ const setting = JSON.parse(fs.readFileSync('./setting.json'))
     
     //===> EDIT SESUAI KEMAUANMU
     global.mess = {
-    admin: '*LU ADMIN? 🤨*',
-    botAdmin: '*BOT BUKAN ADMIN 😔*',
-    owner: '*LU BUKAN OWNER GW 😠*',
-    group: '*KHUSUS GROUP 😏*',
-    private: '*KHUSUS PRIVATE CHAT*',
+    admin: '*Anda Bukan Admin*',
+    botAdmin: '*Bot Bukan Admin*',
+    owner: '*Ur Not My Owner*',
+    group: '*Group Only*',
+    private: '*Private Chat Only*',
     bot: '*KHUSUS PENGGUNA NOMER BOT*',
     wait: '*Memproses ...*',
     done: '*Selesai memproses*',
