@@ -334,11 +334,14 @@ exports.smenu = (pushname, namabot) => {
 	return`Halo Kak *${pushname}* 👋
 Saya Adalah *${namabot}* Yang Direcode Oleh Zian dan Ryuuka Team Menggunakan Base Dari Dika Ardnt (Hisoka-Morou)
 
-Perlu Diketahui Bot Ini Memakai Program Multi Device Beta Dari WhatsApp Messenger.
+Perlu Diketahui Bot Ini Memakai Program Multi Device Beta Dari WhatsApp Messenger dan aktif selama 24/7 (Lapor owner jika bot mati).
 
 Jadi Jika Menemukan Bug Silahkan Laporkan Kepada Owner
 Atau Creator Agar Segera Di Fix 
 
-Terima Kasih 
+Terima Kasih
+
+_Jangan lupa join group:_ https://bit.ly/ourgroupinvites
+ 
 `
 }
