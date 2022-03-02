@@ -158,7 +158,7 @@ Instagram : @x.trailz
 ⚘👾 ${prefix}handhold
 
 *🔞 NSFW MENU*
-_Dosa Silahkan Tanggung Sendiri_
+*_Dosa Silahkan Tanggung Sendiri_*
 ⚘👾 ${prefix}blowjob
 ⚘👾 ${prefix}hentai
 ⚘👾 ${prefix}yuri
@@ -210,7 +210,7 @@ _Dosa Silahkan Tanggung Sendiri_
 ⚘👾 ${prefix}report
 ⚘👾 ${prefix}req
 
-*Harap maklumi jika ada error pada command bot ini, 
-dan jangan gunakan lagi command tersebut.*
+*Harap maklumi jika ada error pada command bot ini,*
+*dan jangan gunakan lagi command tersebut.*
 `
 }
