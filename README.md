@@ -42,6 +42,7 @@ Owner of Baileys | Team of Ryubotz |
 <a href="https://github.com/xfar05"><img src="https://github.com/xfar05.png?size=100" width="100" height="100"></a> | <a href="https://github.com/YdzAja"><img src="https://github.com/YdzAja.png?size=100" width="100" height="100"></a>
 [X-Far](https://github.com/xfar05) | [Ryuuka Botz](https://github.com/YdzAja)
 Owner of Xfarr-api | Owner of Ryubotz |
+<a href="https://github.com/Xtrailz"><img src="https://github.com/Xtrailz.png?size=100" width="100" height="100"></a> |
 [Xtrailz](https://github.com/Xtrailz) |
 Owner of this Bot |
 
