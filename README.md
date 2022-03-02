@@ -13,10 +13,6 @@
 
 ---
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Xtrailz/xtrailzbot3)
-
----
-
 ## Connect With Me 🌱
 <p align="center">
   <a href="https://instagram.com/x.trailz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -64,7 +60,9 @@ npm install
 
 
 ## FOR HEROKU USER
-# Install Buildpack
+# Tekan Tombol Dibawah
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Xtrailz/xtrailzbot3)
+# Kemudian Install Buildpack
 - heroku/nodejs
 - https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 - https://github.com/clhuang/heroku-buildpack-webp-binaries.git
@@ -91,4 +89,4 @@ $ node .
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner And More On [`setting.json`](https://github.com/FBOTZ-YT/RyuBotzMD/blob/master/setting.json)
+Editing Number Owner And More On [`setting.json`](https://github.com/Xtrailz/xtrailzbot3/blob/master/setting.json)
