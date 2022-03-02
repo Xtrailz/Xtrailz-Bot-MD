@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/0c948e309cc07fb7f3cfa.jpg" alt="RYUBOTZ MULTI DEVICE" width="500"/>
+<img src="https://telegra.ph/file/feabd7327d93af4a46204.jpg" alt="XtrailzBotMD" width="500"/>
 
 
 </p>
