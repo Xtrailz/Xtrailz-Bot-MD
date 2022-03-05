@@ -1,7 +1,7 @@
 {
 	"name": "Xtrailz Multi Device",
 	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/Xtrailz/xtrailzbot3",
+	"repository": "https://github.com/Xtrailz/Xtrailz-Bot-MD",
 	"logo": "https://node-js-sample.herokuapp.com/node.png",
 	"keywords": ["multi-device"]
 }
