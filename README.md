@@ -60,7 +60,7 @@ npm install
 
 ## FOR HEROKU USER
 # Tekan Tombol Dibawah
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Xtrailz/xtrailzbot3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Xtrailz/Xtrailz-Bot-MD)
 # Kemudian Install Buildpack
 - heroku/nodejs
 - https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
