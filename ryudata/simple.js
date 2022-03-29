@@ -8,9 +8,9 @@ exports.list = (pushname, ucapanWaktu, namabot) => {
 *Berikut List Menu Yang Tersedia Di ${namabot}*
 
 *Jika Menemukan Bug Harap Dimaklumi Dan Laporkan Kepada*
-*Owner Atau Creator Agar Segera Di Fix *
+*Owner Atau Creator Agar Segera Di Fix*
 
-*Terima Kasih *
+*Terima Kasih*
 `
 }
 
